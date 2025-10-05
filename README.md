@@ -14,10 +14,6 @@
 
 <br>
 
-<!-- Stylish About Me Cards -->
-<table align="center">
-<tr>
-<td align="center" width="50%">
 
 ### 🌟 About Me
 
@@ -26,14 +22,10 @@ const twilight = {
     name: "Twilight",
     location: "Cambodia 🇰🇭",
     role: "Graphic Designer & Full-Stack Developer",
-    code: ["JavaScript", "Java", "C#", "HTML", "CSS", "Python"],
     focus: "Blending design creativity with technical precision",
     motto: "Design beautifully, code smartly"
 };
 ````
-
-</td>
-<td align="center" width="50%">
 
 ### 🎯 Current Focus
 
@@ -41,12 +33,9 @@ const twilight = {
 * 🌱 Expanding skills in **AI, Supabase & Cloudflare Workers**
 * 👯 Open to collaborate on **design + dev projects**
 * 💬 Ask me about **UI/UX, full-stack dev & creative workflows**
-* 📫 Reach me: **[twilight.dev@example.com](mailto:twilight.dev@example.com)**
+* 📫 Reach me: **[xeleste.dev@gmail.com](mailto:xeleste.dev@example.com)**
 * ⚡ Fun fact: **I design and debug with the same playlist 🎵**
 
-</td>
-</tr>
-</table>
 
 <!-- Enhanced Social Links -->
 
