@@ -28,41 +28,6 @@ const twilight = {
 
 ---
 
-### 🧠 Systems & Architecture
-
-* 🧩 **System Design** — modular monoliths, service-oriented architecture, separation of concerns
-* 🗄️ **Database Design** — relational modeling, normalization, audit logs, soft deletes
-* 🔐 **Authorization** — RBAC, permission bundles, super-admin bypass strategies
-* ⚙️ **Scalability Basics** — pagination, background jobs, caching, query optimization
-* 📐 **API Design** — RESTful APIs, versioning, consistent error handling
-
----
-
-### 🏢 HRM System (Active Development)
-
-Currently building a **production-grade Human Resource Management System (HRM)** focused on real-world company workflows.
-
-**Core features:**
-
-* 👥 Employee & department management
-* ⏱️ Attendance tracking with amendment flow
-* 📝 Daily work reports (attendance-gated)
-* 🔐 Fine-grained permission system
-
-  * Super Admin / Admin / Manager / Employee
-* 📊 Manager & Admin dashboards
-* 🌐 PWA-first internal system
-
-**Tech stack:**
-
-* **Frontend:** Next.js, Tailwind CSS, shadcn/ui
-* **Backend:** Supabase (PostgreSQL, Auth, RLS)
-* **Infrastructure:** Cloudflare Workers
-
-> Goal: build an HR system that scales with people, not just users.
-
----
-
 ### 🎯 Current Focus
 
 * 🏗️ Designing and shipping a **real-world HRM system**
