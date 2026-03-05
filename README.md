@@ -85,14 +85,14 @@ const twilight = {
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/neang-mengseang/naxusbank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=neang-mengseang&repo=naxusbank&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/neang-mengseang/Solar_System_Simulator">
+          <img width="1381" height="783" alt="image" src="https://github.com/user-attachments/assets/6285ff8a-c3b1-49ea-ad7e-6f4dbb0617f8" />
         </a>
-        <p><strong>Naxusbank</strong><br/>Java Swing banking app with dashboards & transaction history</p>
+        <p><strong>SSS</strong><br/>a 3D Solar System Simulator using Three.js and inspired by NASA’s solar system data and visualizations</p>
       </td>
       <td width="50%">
         <a href="https://github.com/neang-mengseang/khmerchronicles">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=neang-mengseang&repo=khmerchronicles&theme=tokyonight&hide_border=true" />
+          <img width="1231" height="495" alt="image" src="https://github.com/user-attachments/assets/5797df8e-b729-466d-8af4-5d4f657ed3ee" />
         </a>
         <p><strong>Khmer Chronicles</strong><br/>Content-driven web platform with modern frontend architecture</p>
       </td>
