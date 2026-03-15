@@ -88,7 +88,7 @@ const twilight = {
         <a href="https://github.com/neang-mengseang/Solar_System_Simulator">
           <img width="1381" height="783" alt="image" src="https://github.com/user-attachments/assets/6285ff8a-c3b1-49ea-ad7e-6f4dbb0617f8" />
         </a>
-        <p><strong>SSS</strong><br/>a 3D Solar System Simulator using Three.js and inspired by NASA’s solar system data and visualizations</p>
+        <p><strong>Solar System Simulator</strong><br/>a 3D Solar System Simulator using Three.js and inspired by NASA’s solar system data and visualizations</p>
       </td>
       <td width="50%">
         <a href="https://github.com/neang-mengseang/khmerchronicles">
