@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Twilight&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20×%20Graphic%20Designer%20%7C%20Cambodia%20🇰🇭&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Xeleste&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20×%20Graphic%20Designer%20%7C%20Cambodia%20🇰🇭&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real-world+systems+%F0%9F%8F%97%EF%B8%8F;Design+beautifully%2C+code+smartly+%E2%9C%A8;Full-Stack+%2B+Graphic+Design+%F0%9F%8E%A8;Open+to+SaaS+%26+internal+tool+collabs+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -20,13 +20,11 @@
 ---
 ## 👋 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Hey, I'm **Twilight** — a Full-Stack Developer and Graphic Designer based in **Cambodia 🇰🇭**.
+Hey, I'm **Xeleste** — a Full-Stack Developer and Graphic Designer based in **Cambodia 🇰🇭**.
 
 I started out in design, fell in love with code, and never looked back. These days I sit at the intersection of both — building systems that are as thoughtful under the hood as they are on screen.
 
-> *[Your short origin story — e.g. "Been building for X years, started with Figma, picked up code when..."]*
+> *3–4 years in, started with design tools, then drifted deeper into code until the two became inseparable.*
 
 <br/>
 
@@ -38,10 +36,9 @@ I started out in design, fell in love with code, and never looked back. These da
 
 🤖 **AI-curious** — actively exploring how LLMs fit inside real internal tools
 
-🌱 **[X] years** building · studied at **[Your school]** · fluent in Khmer & English
+🌱 **3–4 years** building · fluent in Khmer & English
 
-✨ Fun fact: *[Something unexpected — a hobby, a weird skill, anything memorable]*
-
+✨ Fun fact: *When I'm not coding, I'm lost in a novel, curating playlists, or accidentally starting a new side project at 2am.*
 ---
 
 ## 🛠️ Tech Stack
