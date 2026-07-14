@@ -28,16 +28,6 @@ I started out in design, fell in love with code, and never looked back. These da
 
 <br/>
 
-🏗️ **Systems thinker** — I design databases and architecture before writing a line of UI
-
-🎨 **Design-first** — clean interfaces aren't an afterthought; they're part of the spec
-
-🔐 **Production mindset** — RBAC, failover, circuit breakers — I build for the real world
-
-🤖 **AI-curious** — actively exploring how LLMs fit inside real internal tools
-
-🌱 **3–4 years** building · fluent in Khmer & English
-
 ✨ Fun fact: *When I'm not coding, I'm lost in a novel, curating playlists, or accidentally starting a new side project at 2am.*
 ---
 
